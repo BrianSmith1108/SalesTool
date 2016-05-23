@@ -8,7 +8,6 @@ public class Main {
 		
 		displayGreeting();
 		data.display();
-		
 	}
 
 		private static void displayGreeting(){
